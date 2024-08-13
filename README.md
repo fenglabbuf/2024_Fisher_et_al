@@ -1,6 +1,6 @@
 # 2024_Fisher_et_al
 #### Scripts for:<br/>
-#### ASCL1 Promotes Nuclear Shrinkage in Transdifferentiation by Suppressing NUP37<br/>
+#### Nuclear Size Reduction in the Direct Conversion of Fibroblasts to Neurons<br/>
 <br/>
 Authors:<br/>
 Emily Fisher<sup>1,2</sup>, Zhongjiao Jiang<sup>1</sup>, Li Li<sup>1</sup>, Gaurav Chhetri<sup>1</sup>, Komal Saleem<sup>1</sup>, Zhen Yan<sup>1</sup>, Jian Feng<sup>1,2*</sup><br/>
